@@ -1,1 +1,1 @@
-nastools/nas-tools
+docker pull jxxghp/moviepilot:latest
