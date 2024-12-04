@@ -1,1 +1,1 @@
-jxxghp/moviepilot:latest
+ikaros:latest
