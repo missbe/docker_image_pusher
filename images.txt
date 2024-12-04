@@ -1,1 +1,1 @@
-suwmlee/ikaros:latest
+metatube/metatube-server:latest
