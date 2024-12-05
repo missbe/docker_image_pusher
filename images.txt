@@ -1,1 +1,1 @@
-metatube/metatube-server:latest
+tinymediamanager/tinymediamanager:latest
