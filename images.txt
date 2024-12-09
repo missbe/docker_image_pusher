@@ -1,1 +1,1 @@
-natfrp/launcher:latest
+stilleshan/frps:latest
