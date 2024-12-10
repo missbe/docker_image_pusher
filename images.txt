@@ -1,1 +1,1 @@
-unilei/aipan-netdisk-search:latest
+hslr/sun-panel:latest
