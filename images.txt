@@ -1,1 +1,1 @@
-johngong/calibre-web:latest
+youshandefeiyang/allinone:latest
