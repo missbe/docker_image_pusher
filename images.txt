@@ -1,2 +1,1 @@
-flaresolverr/flaresolverr:latest
-linuxserver/jackett:latest
+minio/minio:latest
