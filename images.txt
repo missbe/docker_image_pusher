@@ -1,1 +1,2 @@
-yuexuangu/allinone_format:latest
+flaresolverr/flaresolverr:latest
+linuxserver/jackett:latest
