@@ -1,1 +1,1 @@
-ddsderek/easyimage:latest
+foamzou/melody:latest
