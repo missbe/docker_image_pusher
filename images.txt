@@ -1,1 +1,1 @@
-fogforest/yesplaymusic:latest
+deluan/navidrome:latest
