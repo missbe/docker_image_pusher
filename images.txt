@@ -1,1 +1,1 @@
-nanawel/our-shopping-list:latest
+sissbruecker/linkding:latest
