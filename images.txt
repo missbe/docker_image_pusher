@@ -1,2 +1,1 @@
-dezhao/komga_cn:latest
-axboy/leanote:latest
+jlesage/firefox:latest
