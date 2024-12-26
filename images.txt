@@ -1,1 +1,1 @@
-sissbruecker/linkding:latest
+luodaoyi/kms-server:latest
